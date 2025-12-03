@@ -5,3 +5,4 @@ const items=["Kanchan",["Neha"],{'father': 'papa','Mother':'Mama',},[],["Shruti"
 const newitems=lodash.flattenDeep(items)
 
 console.log(newitems)
+console.log("Hello world!")
